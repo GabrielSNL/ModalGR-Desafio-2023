@@ -2,7 +2,7 @@
 
 Desafio da ModalGR para vaga de Desenvolvimento.
 
-Escolhi a linguagem java pois é a que tenho maior conhecimento e que tive mais facilidade para encontrar as soluções para o desafio.
+Escolhi a linguagem Java pois é a que tenho maior conhecimento e que tive mais facilidade para encontrar as soluções para o desafio.
 
 Questão 1:
 Um das dificuldades que tive de encontrar um algoritmo de criptografia para suportar a chave grande que foi passada 
